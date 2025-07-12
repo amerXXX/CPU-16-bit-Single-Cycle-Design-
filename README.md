@@ -16,8 +16,4 @@ A Logisim-Evolution implementation of a 16-bit single-cycle RISC CPU featuring a
 - Java 8+ (for Logisim-Evolution)
 - Logisim-Evolution v3.8.0 or later
 
-### Installation
-1. Clone the repo:  
-   ```bash
-   git clone https://github.com/yourusername/risc16-cpu.git
-   cd risc16-cpu
+
